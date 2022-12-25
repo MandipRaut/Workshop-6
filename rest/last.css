@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: bisque;
+}
+img{
+    width: 1100px; 
+    height: 270px; 
+    object-fit: cover;
+    object-position: 10% 35%; 
+    margin-top: 10%;
+    margin-left: 9%;
+}
+.text{
+    font-size: 4vw;
+    margin-right: 50%;
+    margin-left: 9%; 
+    margin-top: 5%;
+    font-weight: bolder;
+}
+.rest{
+    margin-left: 55%;
+    margin-right: 9%;
+    margin-top: -17%;
+    font-size: 20px;
+}
